@@ -21,6 +21,9 @@ Part I
 
 
 Part II
+
 8. Basic exercises
+
 9. I/O
+
 10. Advanced exercises - word counting
